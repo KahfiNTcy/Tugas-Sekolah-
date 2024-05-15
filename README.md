@@ -1,4 +1,3 @@
-homework.cpp
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
